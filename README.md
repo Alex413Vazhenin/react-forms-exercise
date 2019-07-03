@@ -1,3 +1,5 @@
+A simple forms exercise, in which you need to create form that can spawn colored boxes of different height and weight.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
